@@ -1,0 +1,10 @@
+dist/
+connection.ini
+*.exe
+*.pdb
+*.log
+*.pem
+*.key
+id_*
+*.zip
+.vs/
